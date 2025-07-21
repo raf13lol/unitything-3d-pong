@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2877,7 +2876,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "          - did the sound effects and \nblured the menu bg"
+  m_text: "          - did the sound effects and \nblurred the menu bg"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1fbda55ed3814034b9408ab30de867c5, type: 2}
   m_sharedMaterial: {fileID: 5951127235029025302, guid: 1fbda55ed3814034b9408ab30de867c5, type: 2}
@@ -3930,6 +3929,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
